@@ -1,21 +1,7 @@
 {
   "name": "group_ass",
-  "version": "1.0.0",
-  "description": "Group assignment",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
-
-
-{
-  "name": "group_ass",
-  "version": "1.0.0",
-  "description": "Group assignment",
+  "version": "1.0.1",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
